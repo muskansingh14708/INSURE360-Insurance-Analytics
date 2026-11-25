@@ -196,7 +196,7 @@ Based on the patterns explored in this synthetic portfolio:
 - **Evaluate retention initiatives:** Use measurable outcomes and controlled comparisons where feasible to evaluate whether retention initiatives are effective.
 
 ## Project Structure
-
+```text
 INSURE360-Insurance-Analytics/
 │
 ├── Dataset/
@@ -214,7 +214,7 @@ INSURE360-Insurance-Analytics/
 │   └── retention_strategy.png
 │
 └── README.md
-└── README.md
+```
 
 > **Note:** The folder structure shown above represents the planned organisation of the project for GitHub. File names and folder organisation will be finalised during project packaging to ensure they reflect the actual project files.
 
