@@ -216,5 +216,4 @@ INSURE360-Insurance-Analytics/
 └── README.md
 ```
 
-> **Note:** The folder structure shown above represents the planned organisation of the project for GitHub. File names and folder organisation will be finalised during project packaging to ensure they reflect the actual project files.
 
