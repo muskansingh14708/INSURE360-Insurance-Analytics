@@ -197,21 +197,23 @@ Based on the patterns explored in this synthetic portfolio:
 
 ## Project Structure
 
-```text
-INSURE360/
+INSURE360-Insurance-Analytics/
 │
 ├── Dataset/
-│   └── INSURE360_dataset.xlsx
+│   └── INSURE360_dataset_v2.xlsx
 │
 ├── SQL/
-│   └── SQL_queries.sql
+│   └── INSURE360_SQL_Analysis.sql
 │
 ├── PowerBI/
-│   └── INSURE360_Dashboard.pbix
+│   └── INSURE360.pbix
 │
 ├── Screenshots/
-│   └── Dashboard screenshots
+│   ├── portfolio_overview.png
+│   ├── retention_risk_analysis.png
+│   └── retention_strategy.png
 │
+└── README.md
 └── README.md
 
 > **Note:** The folder structure shown above represents the planned organisation of the project for GitHub. File names and folder organisation will be finalised during project packaging to ensure they reflect the actual project files.
